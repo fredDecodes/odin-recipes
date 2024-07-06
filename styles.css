@@ -1,0 +1,13 @@
+/* * {
+  outline: 2px solid red;
+} */
+
+h1 {
+  text-align: center;
+}
+
+.nav-recipe {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
